@@ -1,5 +1,7 @@
 # ConsoleFaker
- Console.logs from fake extensions with weird names. Designed for scambaiters.
+Console.logs from fake extensions with names that would be bad for a scammer. Designed for scambaiters.
+# WARNING
+This is not guarenteed to trick any scammer you scambait, and I am not responsible for anything that may occur.
 # list of fake extension names
 AntiVirus Pro
 <br>
