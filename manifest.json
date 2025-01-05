@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ConsoleFaker",
+    "description": "Console.logs from fake extensions with weird names. Designed for scambaiters.",
+    "version": "1.0",
+    "content_scripts": [
+      {
+        "js": [
+          "ExtLoad.js"
+        ],
+        "matches": [
+          "*://*/*"
+        ]
+      }
+    ]
+  }
